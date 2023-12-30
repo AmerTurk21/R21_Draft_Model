@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorch-lightning
+transformers
+flask
+dataset
+1 hand dataset image
+
+and a goodluck for amerturk R21 :P
